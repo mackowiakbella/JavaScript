@@ -1,7 +1,4 @@
-let apartamento = {
-    quartos: 2,
-    tipo: "apartamento",
-    endereco: "Avenida Principal, 456 - Centro",
-    andar: 7,
-}
-console.log(`${apartamento. tipo} com ${apartamento. quartos} quartos , localizado no ${apartamento. andar}° andar da ${apartamento. endereco}`)
+let nome = 'Ana';
+let idade = 16;
+
+console.log("Olá, meu nome é " + nome + " e eu tenho " + idade + " anos");
